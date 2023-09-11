@@ -1,4 +1,5 @@
-# 2300956_10_Don_APIChallenge_Platinum
+Binar Academy - Platinum Challenge
+for graduate bootcamp
 
 An LSTM-and-RNN-based sentiment analysis API
 
